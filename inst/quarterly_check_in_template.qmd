@@ -1,0 +1,57 @@
+---
+format:
+  docx:
+    toc: false
+    number-sections: false
+params:
+  name: "Kaustav"
+  period: "Q126"
+---
+
+```{r}
+#| include: false
+
+TRUE
+```
+
+# Quarterly check-in notes: `r params$period`
+
+## Projects and Internal Initiatives
+
+::: {.callout-note}
+List out the client projects and internal initiatives that you were involved in over the quarter.
+:::
+
+* start here...
+
+## Things That Went Well
+
+::: {.callout-note}
+Describe what went well during this quarter. Highlight achievements, successful collaborations, positive feedback, and moments where you felt particularly productive or satisfied with your work.
+:::
+
+* start here...
+
+## Things That Could Have Gone Better
+
+::: {.callout-note}
+Reflect on areas for improvement this quarter. Consider challenges faced, missed opportunities, or situations where you feel you could have performed better.
+:::
+
+* start here...
+
+## Goals update
+
+::: {.callout-note}
+Reflect on the progress made on the goals and is any of these need rethinking due to change in priority / interests etc.
+:::
+
+* start here
+
+## Feedback Collected
+
+::: {.callout-note}
+Share any feedback you've collected or received during this quarter (both internal and client feedback).
+:::
+
+* start here...
