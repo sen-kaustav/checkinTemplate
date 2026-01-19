@@ -1,4 +1,4 @@
-# Quarterly check-in template generator - utility package 📦
+# Quarterly check-in template generator - utility 📦
 
 This is a helper R package to generate quarterly check-in templates for your team members. This is intended to be run once a year and will create four files per name supplied.
 
